@@ -1,0 +1,5 @@
+package utils;
+
+public enum TipoSeleccion {
+	RULETA, TORNEO, ESTOCASTICO, RANKING, TRUNCAMIENTO10, TRUNCAMIENTO50 , SELPROPIA;
+}
